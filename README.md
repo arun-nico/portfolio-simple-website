@@ -43,11 +43,7 @@ git clone https://github.com/yourusername/your-repo-name.git
 
 2. Open `index.html` in your browser to view the website.
 
-## 📝 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## 📫 Get in Touch
 
 
 
