@@ -49,9 +49,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📫 Get in Touch
 
-- **Email:** your.email@example.com
-- **LinkedIn:** [your-linkedin-profile](https://linkedin.com/in/yourprofile)
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
+
 
 ---
 
